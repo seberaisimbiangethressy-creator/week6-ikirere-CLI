@@ -1,0 +1,17 @@
+{
+  "name": "ikirere",
+  "version": "1.0.0",
+  "description": "A command-line weather application built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Thressy",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "ikirere": "./src/index.js"
+  }
+}
